@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "vendor_id": 1,
+      "checkin_time": "2026-04-20 10:00:00",
+      "checkout_time": "2026-04-20 12:00:00",
+      "latitude": -6.200000,
+      "longitude": 106.816666
+    },
+    {
+      "vendor_id": 1,
+      "checkin_time": "2026-04-20 15:00:00",
+      "checkout_time": "2026-04-20 17:30:00",
+      "latitude": -6.208000,
+      "longitude": 106.820000
+    },
+    {
+      "vendor_id": 1,
+      "checkin_time": "2026-04-21 10:15:00",
+      "checkout_time": "2026-04-21 11:45:00",
+      "latitude": -6.201000,
+      "longitude": 106.817000
+    },
+    {
+      "vendor_id": 1,
+      "checkin_time": "2026-04-21 15:30:00",
+      "checkout_time": "2026-04-21 17:00:00",
+      "latitude": -6.207500,
+      "longitude": 106.821000
+    },
+    {
+      "vendor_id": 1,
+      "checkin_time": "2026-04-22 09:30:00",
+      "checkout_time": "2026-04-22 13:00:00",
+      "latitude": -6.199500,
+      "longitude": 106.815500
+    },
+    {
+      "vendor_id": 1,
+      "checkin_time": "2026-04-22 15:15:00",
+      "checkout_time": "2026-04-22 16:45:00",
+      "latitude": -6.209000,
+      "longitude": 106.819500
+    },
+    {
+      "vendor_id": 1,
+      "checkin_time": "2026-04-23 10:00:00",
+      "checkout_time": "2026-04-23 12:30:00",
+      "latitude": -6.200500,
+      "longitude": 106.816800
+    },
+    {
+      "vendor_id": 1,
+      "checkin_time": "2026-04-23 14:00:00",
+      "checkout_time": "2026-04-23 18:00:00",
+      "latitude": -6.206500,
+      "longitude": 106.820500
+    }
+  ],
+  "target_time": "2026-04-20 11:00:00"
+}
