@@ -23,6 +23,7 @@ ENV/
 .coverage
 htmlcov/
 docs/
+more/
 
 # Project specific
 *.log
